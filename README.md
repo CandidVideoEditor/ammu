@@ -25,7 +25,7 @@ She talks naturally, supports multiple languages, remembers users, and keeps you
 ## 🚀 Deploy Instantly
 
 ### 🔵 Heroku One-Click Deploy
-[![Deploy](https://heroku.com/deploy?template=https://github.com/CandidVideoEditor/ammu
+[![Deploy]((https://heroku.com/deploy?template=https://github.com/CandidVideoEditor/ammu
 ))
 
 ---
