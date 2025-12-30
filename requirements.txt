@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pymongo
+gTTS
+langdetect
+python-dotenv
