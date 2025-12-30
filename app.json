@@ -1,0 +1,45 @@
+{
+  "name": "Ammu AI Chatbot",
+  "description": "A smart, friendly Telegram bot with AI, voice replies, and group management features.",
+  "repository": "https://github.com/CandidVideoEditor/ammu",
+  "logo": "https://raw.githubusercontent.com/CandidVideoEditor/ammu/main/assets/logo.png",
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "chatbot",
+    "heroku",
+    "python",
+    "automation"
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token from @BotFather",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Telegram User ID of the bot owner",
+      "required": true
+    },
+    "MONGO_URL": {
+      "description": "MongoDB connection string",
+      "required": true
+    },
+    "OPENAI_API_KEY": {
+      "description": "OpenAI API key (optional, for AI features)",
+      "required": false
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "stack": "heroku-22"
+}
