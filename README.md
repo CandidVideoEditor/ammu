@@ -25,7 +25,8 @@ She talks naturally, supports multiple languages, remembers users, and keeps you
 ## 🚀 Deploy Instantly
 
 ### 🔵 Heroku One-Click Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/CandidVideoEditor/ammu
+))
 
 ---
 
@@ -36,3 +37,21 @@ git clone https://github.com/yourusername/ammu-bot.git
 cd ammu-bot
 pip install -r requirements.txt
 python main.py
+
+## 🔗 Community & Support Links
+
+<div align="center">
+
+[![Support Channel](https://img.shields.io/badge/Telegram-Support%20Channel-blue?logo=telegram)](https://t.me/karunadakingskingdom)
+&nbsp;
+[![Support Group](https://img.shields.io/badge/Telegram-Support%20Group-blue?logo=telegram)](https://t.me/karunada_kings_kingdom)
+&nbsp;
+[![Creator](https://img.shields.io/badge/Creator-@karunadaking-blue?logo=telegram)](https://t.me/karunadaking)
+&nbsp;
+[![Supporter](https://img.shields.io/badge/Supporter-@karunadadon-blue?logo=telegram)](https://t.me/karunadadon)
+&nbsp;
+[![Federation](https://img.shields.io/badge/Federation-Kings%20%26%20Dons-blue?logo=telegram)](https://t.me/kings_and_dons)
+
+</div>
+
+
